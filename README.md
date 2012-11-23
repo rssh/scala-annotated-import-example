@@ -1,0 +1,2 @@
+scala-annotated-import-example
+==============================
