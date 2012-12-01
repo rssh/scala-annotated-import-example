@@ -4,4 +4,6 @@
 
 #
 
-java -classpath $QUICK_CLASSPATH $SCALADOC_CLASS -usejavacp  -d api src/example/*.scala
+find src/example/ -name '*.scala'
+
+java -classpath $QUICK_CLASSPATH $SCALADOC_CLASS -usejavacp -d api `find src/example/ -name '*.scala'`

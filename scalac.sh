@@ -4,4 +4,4 @@
 
 #
 
-java -classpath $QUICK_CLASSPATH $SCALAC_CLASS -usejavacp -d build  src/example/*.scala
+java -classpath $QUICK_CLASSPATH $SCALAC_CLASS -usejavacp -d build  `find src/example/ -name '*.scala'`
