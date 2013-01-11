@@ -1,4 +1,4 @@
-package example.internal
+package example1.internal
 
 trait InteralObject
 {
