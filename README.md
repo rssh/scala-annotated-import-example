@@ -13,3 +13,8 @@ To use one you need:
   directory where patched compiler is situated.
 
 4.  scalac.sh can be used for compiling;  scaladoc - for creating scaladoc in API dir.
+
+
+Links:
+#  [scaladoc, generated for this example](http://rssh.github.com/scala-annotated-import-example/api/index.html)
+#  [proposal itself](https://docs.google.com/document/d/1dlT6NgB9610jqLscCJW2LRB7TapDh3q4d2S3YA_q5zs/edit)
