@@ -160,7 +160,8 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  /* width:500px; */
+  width:860px; 
   float:right;
   padding-bottom:50px;
 }
@@ -197,7 +198,7 @@ footer {
   }
   
   header {
-    padding-right:320px;
+     padding-right:320px; 
   }
   
   section {
